@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="GOPATH &lt;leetcode-3&gt;">
+    <CLASSES>
+      <root url="file://$USER_HOME$/code/go/mygo/src/2" />
+      <root url="file://$USER_HOME$/code/go/mygo/src/testbeego" />
+      <root url="file://$USER_HOME$/code/go/mygo/src/github.com" />
+      <root url="file://$USER_HOME$/code/go/mygo/src/gonet" />
+      <root url="file://$USER_HOME$/code/go/mygo/src/hello" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <excluded>
+      <root url="file://$PROJECT_DIR$" />
+    </excluded>
+  </library>
+</component>
